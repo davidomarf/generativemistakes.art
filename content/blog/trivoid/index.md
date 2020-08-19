@@ -3,7 +3,6 @@ title: Trivoid
 date: "2019-08-13"
 thumbnail: ./trivoid.png
 tags: [noise-field, color]
-description: fuck yu socka
 ---
 
 ## In a nutshell
